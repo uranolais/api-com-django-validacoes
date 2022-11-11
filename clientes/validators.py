@@ -7,5 +7,5 @@ def nome_valido(nome):
 def rg_valido(rg):
     return len(rg) == 9
 
-def celular_valido(celular):
-    return len(celular) == 11
+# def celular_valido(celular):
+#     return len(celular) == 11
